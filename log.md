@@ -8,4 +8,13 @@
 
 **Link(s) to work**: [Work](/day-1)
 
+### Day 2: February 27, 2024
+
+**Today's Progress**: Today learned concepts about variables in PHP and how work 
+
+**Thoughts**: My second day with PHP was good, as I can already test some things because I already have knowledge of javascript, which ends up making my journey with PHP easier.
+
+
+**Link(s) to work**: [Work](/day-2)
+
 
