@@ -17,4 +17,14 @@
 
 **Link(s) to work**: [Work](/day-2)
 
+### Day 3: February 28, 2024
+
+**Today's Progress**: Today learned concepts about types in language PHP and its peculiarities
+
+**Thoughts**: Today I realized that PHP is similar to JavaScript, as it is also a weakly typed language, but it is still possible to manipulate some types of data.
+
+
+**Link(s) to work**: [Work](/day-3)
+
+
 
