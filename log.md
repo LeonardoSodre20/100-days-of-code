@@ -26,5 +26,15 @@
 
 **Link(s) to work**: [Work](/day-3)
 
+### Day 4: February 29, 2024
+
+**Today's Progress**: Today I learned how to manipulate and concatenate strings and I also learned how to deal with form data with PHP.
+
+**Thoughts**: I think the learning was very good, as the issue of getting data from the form with PHP is very easy and also the string manipulation part is similar to manipulation in JavaScript.
+
+
+**Link(s) to work**: [Work](/day-4)
+
+
 
 

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Forms in PHP</title>
+</head>
+
+<body>
+
+    <section class="main-container">
+        <h1 class="title-main">Criação de conta</h1>
+
+        <form action="register.php" method="post" class="form-register">
+            <div class="container-input">
+                <label for="name_register" id="label-input">Nome</label>
+                <input type="text" name="name_register" id="id_register" placeholder="Digite seu nome...">
+            </div>
+
+
+            <div class="container-input">
+                <label for="email_register" id="label-input">E-mail</label>
+                <input type="email" name="email_register" id="id_register" placeholder="Digite seu e-mail...">
+            </div>
+
+            <div class="container-input">
+                <label for="phone_register" id="label-input">Telefone</label>
+                <input type="tl" name="phone_register" id="id_register" placeholder="Digite seu telefone...">
+            </div>
+
+            <div class="container-input">
+                <label for="password_register" id="label-input">Senha</label>
+                <input type="password" name="password_register" id="id_register" placeholder="Digite sua senha...">
+            </div>
+
+
+            <div class="container-input">
+                <label for="confirm_password_register" id="label-input">Confirmação de senha</label>
+                <input type="password" name="confirm_password_register" id="id_register"
+                    placeholder="Digite a confirmação de senha...">
+            </div>
+
+            <button type="submit" class="btn-submit">Cadastrar</button>
+        </form>
+    </section>
+</body>
+
+</html>
