@@ -35,6 +35,15 @@
 
 **Link(s) to work**: [Work](/day-4)
 
+### Day 4: March 01, 2024
+
+**Today's Progress**: Today I discovered knowing some arithmetic functions and can also make a converter from degrees ºC to ºF.
+
+**Thoughts**: It turned out that it was easy to implement the converter part, as I was already able to learn about capturing data from a form in PHP.
+
+
+**Link(s) to work**: [Work](/day-5)
+
 
 
 
