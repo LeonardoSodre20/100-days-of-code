@@ -10,10 +10,9 @@
 
 ### Day 2: February 27, 2024
 
-**Today's Progress**: Today learned concepts about variables in PHP and how work 
+**Today's Progress**: Today learned concepts about variables in PHP and how work
 
 **Thoughts**: My second day with PHP was good, as I can already test some things because I already have knowledge of javascript, which ends up making my journey with PHP easier.
-
 
 **Link(s) to work**: [Work](/day-2)
 
@@ -23,7 +22,6 @@
 
 **Thoughts**: Today I realized that PHP is similar to JavaScript, as it is also a weakly typed language, but it is still possible to manipulate some types of data.
 
-
 **Link(s) to work**: [Work](/day-3)
 
 ### Day 4: February 29, 2024
@@ -32,18 +30,20 @@
 
 **Thoughts**: I think the learning was very good, as the issue of getting data from the form with PHP is very easy and also the string manipulation part is similar to manipulation in JavaScript.
 
-
 **Link(s) to work**: [Work](/day-4)
 
-### Day 4: March 01, 2024
+### Day 5: March 01, 2024
 
 **Today's Progress**: Today I discovered knowing some arithmetic functions and can also make a converter from degrees ºC to ºF.
 
 **Thoughts**: It turned out that it was easy to implement the converter part, as I was already able to learn about capturing data from a form in PHP.
 
-
 **Link(s) to work**: [Work](/day-5)
 
+### Day 6: March 04, 2024
 
+**Today's Progress**: Today I learned how to manipulate arrays in PHP.
 
+**Thoughts**: I noticed that arrays in PHP have their peculiarities, but even so the understanding is normal.
 
+**Link(s) to work**: [Work](/day-6)
