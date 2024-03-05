@@ -47,3 +47,11 @@
 **Thoughts**: I noticed that arrays in PHP have their peculiarities, but even so the understanding is normal.
 
 **Link(s) to work**: [Work](/day-6)
+
+### Day 7: March 05, 2024
+
+**Today's Progress**: Today I manipulated data with array functions and also learned how to do conditionals and repetition loops.
+
+**Thoughts**: Regarding today's learning, I noticed that it went very smoothly because PHP's syntax is similar in some aspects to JS.
+
+**Link(s) to work**: [Work](/day-7)
