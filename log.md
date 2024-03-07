@@ -55,3 +55,12 @@
 **Thoughts**: Regarding today's learning, I noticed that it went very smoothly because PHP's syntax is similar in some aspects to JS.
 
 **Link(s) to work**: [Work](/day-7)
+
+### Day 8: March 06, 2024
+
+**Today's Progress**: Today I learned how to validate forms and also how to upload files.
+
+**Thoughts**: I realized that the issue of field validation using PHP is very different from validation in JS for example. Another point is that the upload part is much simpler than in JS.
+
+**Link(s) to work**: [Work](/day-8)
+

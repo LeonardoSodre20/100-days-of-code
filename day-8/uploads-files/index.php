@@ -7,28 +7,28 @@
     <title>Upload de arquivos</title>
 
     <style>
-        body {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            width: 100%;
-            gap: 1rem;
-        }
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        width: 100%;
+        gap: 1rem;
+    }
 
-        div {
-            width: 500px;
-        }
+    div {
+        width: 500px;
+    }
 
-        label {
-            background-color: #000;
-            width: 100%;
-            height: 50px;
-            padding: 10px;
-            cursor: pointer;
-            color: #fff;
-            margin-bottom: 10px;
-        }
+    label {
+        background-color: #000;
+        width: 100%;
+        height: 50px;
+        padding: 10px;
+        cursor: pointer;
+        color: #fff;
+        margin-bottom: 10px;
+    }
     </style>
 </head>
 
