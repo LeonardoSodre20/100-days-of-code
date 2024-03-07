@@ -64,3 +64,11 @@
 
 **Link(s) to work**: [Work](/day-8)
 
+### Day 9: March 07, 2024
+
+**Today's Progress**: Today I started to see the basic part of a PHP login system and also some phpMyAdmin questions
+
+**Thoughts**: I'm enjoying working with PHP, as it seems to facilitate the basic issues of a system, such as sending data to the bank, etc...
+
+**Link(s) to work**: [Work](/day-9)
+
