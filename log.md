@@ -72,3 +72,12 @@
 
 **Link(s) to work**: [Work](/day-9)
 
+### Day 10: March 08, 2024
+
+**Today's Progress**: Today I learned how to insert data into the database
+
+**Thoughts**: Regarding the issue of inserting data into the database with PHP, it is a little more complicated, as the queries are written by hand.
+
+**Link(s) to work**: [Work](/day-10)
+
+
