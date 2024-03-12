@@ -87,3 +87,11 @@
 **Thoughts**: At first, I felt that the OO part of PHP helps a lot to build the project structure.
 
 **Link(s) to work**: [Work](/day-11)
+
+### Day 12: March 12, 2024
+
+**Today's Progress**: Today I learned about constructors and inheritance in PHP
+
+**Thoughts**: I managed to recap some questions about classes and constructors, which are fundamental to learning the language. However, the inheritance part ends up getting a little complicated, but I believe this will improve with practice.
+
+**Link(s) to work**: [Work](/day-12)
