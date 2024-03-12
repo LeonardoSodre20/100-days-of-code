@@ -80,4 +80,10 @@
 
 **Link(s) to work**: [Work](/day-10)
 
+### Day 11: March 11, 2024
 
+**Today's Progress**: Today I'm starting to take my first steps with object orientation with PHP
+
+**Thoughts**: At first, I felt that the OO part of PHP helps a lot to build the project structure.
+
+**Link(s) to work**: [Work](/day-11)
