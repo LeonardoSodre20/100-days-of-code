@@ -95,3 +95,11 @@
 **Thoughts**: I managed to recap some questions about classes and constructors, which are fundamental to learning the language. However, the inheritance part ends up getting a little complicated, but I believe this will improve with practice.
 
 **Link(s) to work**: [Work](/day-12)
+
+### Day 13: March 13, 2024
+
+**Today's Progress**: Today I focused on studying the abstractions and access modifiers part.
+
+**Thoughts**: I managed to understand the concept of abstraction and access modifiers, however, I imagine how complicated it could be to apply this in a large system, as depending on the business rules, this could be a little complicated.
+
+**Link(s) to work**: [Work](/day-13)
