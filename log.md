@@ -103,3 +103,11 @@
 **Thoughts**: I managed to understand the concept of abstraction and access modifiers, however, I imagine how complicated it could be to apply this in a large system, as depending on the business rules, this could be a little complicated.
 
 **Link(s) to work**: [Work](/day-13)
+
+### Day 14: March 14, 2024
+
+**Today's Progress**: Today I learned how to create classes with constants and also make a second class with inheritance able to render the constant present in the parent class.
+
+**Thoughts**: This part of the class with constants was very easy, as you just need to know how to use the self and parent operators.
+
+**Link(s) to work**: [Work](/day-14)
