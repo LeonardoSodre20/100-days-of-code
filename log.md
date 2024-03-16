@@ -111,3 +111,11 @@
 **Thoughts**: This part of the class with constants was very easy, as you just need to know how to use the self and parent operators.
 
 **Link(s) to work**: [Work](/day-14)
+
+### Day 15: March 15, 2024
+
+**Today's Progress**: Today I learned concepts of polymorphism, static methods and attributes and also about interfaces.
+
+**Thoughts**: In relation to today's learning, it was very peaceful, one thing I found cool was the issue of interfaces, which are very important for creating and structuring a system.
+
+**Link(s) to work**: [Work](/day-15);
