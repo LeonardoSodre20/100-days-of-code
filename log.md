@@ -119,3 +119,12 @@
 **Thoughts**: In relation to today's learning, it was very peaceful, one thing I found cool was the issue of interfaces, which are very important for creating and structuring a system.
 
 **Link(s) to work**: [Work](/day-15);
+
+### Day 16: March 18, 2024
+
+**Today's Progress**: Today I learned about namespaces and object cloning.
+
+**Thoughts**: Today's learning was very important, in which I was able to visualize the organization of classes with namespaces and I also tried to do some exercises using the concepts already acquired.
+
+**Link(s) to work**: [Work](/day-16);
+
