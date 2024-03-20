@@ -128,3 +128,10 @@
 
 **Link(s) to work**: [Work](/day-16);
 
+### Day 17: March 19, 2024
+
+**Today's Progress**: Today learned about excepetions in PHP and too about associations of objects.
+
+**Thoughts**: Exception handling in PHP is similar to the handling done in Javascript.
+
+**Link(s) to work**: [Work](/day-17);
