@@ -143,3 +143,11 @@
 **Thoughts**: Regarding today's exercises, they were very calm, as I focused on practicing simpler PHP concepts.
 
 **Link(s) to work**: [Work](/day-18);
+
+### Day 19: March 21, 2024
+ 
+**Today's Progress**: Today learned about agregation and composition of object.
+
+**Thoughts**: In relation to today's learning, it was very easy, as I was able to list the nomenclatures used in Javascript.
+
+**Link(s) to work**: [Work]('/day-19);
