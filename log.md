@@ -135,3 +135,11 @@
 **Thoughts**: Exception handling in PHP is similar to the handling done in Javascript.
 
 **Link(s) to work**: [Work](/day-17);
+
+### Day 18: March 20, 2024
+
+**Today's Progress**: Today I didn't learn anything specific to PHP, however, I did some exercises.
+
+**Thoughts**: Regarding today's exercises, they were very calm, as I focused on practicing simpler PHP concepts.
+
+**Link(s) to work**: [Work](/day-18);
