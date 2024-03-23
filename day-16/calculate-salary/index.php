@@ -24,6 +24,7 @@ class CalculateSalary
         $this->perMonthHours = $perMonthHours;
         $this->result = $this->perHourValue * $this->perMonthHours;
     }
+
     public function calculatePercentOfINSS($percent)
     {
         $this->inssValue = ($percent / 100) * $this->result;

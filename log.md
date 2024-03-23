@@ -151,3 +151,11 @@
 **Thoughts**: In relation to today's learning, it was very easy, as I was able to list the nomenclatures used in Javascript.
 
 **Link(s) to work**: [Work]('/day-19);
+
+### Day 20: March 22, 2024
+ 
+**Today's Progress**: Exercise resolution
+
+**Thoughts**: Today I focused on solving some exercises to practice the knowledge already acquired.
+
+**Link(s) to work**: [Work]('/day-20);
