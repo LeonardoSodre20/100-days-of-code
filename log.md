@@ -159,3 +159,13 @@
 **Thoughts**: Today I focused on solving some exercises to practice the knowledge already acquired.
 
 **Link(s) to work**: [Work]('/day-20);
+
+### Day 21: March 25, 2024
+ 
+**Today's Progress**: Exercise resolution
+
+**Thoughts**: Today I focused on solving some exercises to practice the knowledge already acquired.
+
+**Link(s) to work**: [Work]('/day-21);
+
+
