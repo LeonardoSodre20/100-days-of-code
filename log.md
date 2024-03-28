@@ -168,4 +168,13 @@
 
 **Link(s) to work**: [Work]('/day-21);
 
+### Day 22: March 27, 2024
+ 
+**Today's Progress**: Exercise resolution
+
+**Thoughts**: Today I focused on solving some exercises to practice the knowledge already acquired.
+
+**Link(s) to work**: [Work]('/day-22);
+
+
 
