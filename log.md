@@ -176,5 +176,13 @@
 
 **Link(s) to work**: [Work]('/day-22);
 
+### Day 23: April 01, 2024
+ 
+**Today's Progress**: System of login
+
+**Thoughts**: Starting a login system
+
+**Link(s) to work**: [Work]('/day-23);
+
 
 
